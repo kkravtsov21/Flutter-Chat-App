@@ -4,7 +4,7 @@ A demo Flutter Chat Application which allows the user to create an account, log 
 
 ## Overview
 
-- Allows the user to create an account/log in to an existing account
+- Allows the user to create an account/log in to an existing account and send/receive messages
 
 - Uses Firebase for storing user data
 
