@@ -10,6 +10,6 @@ A demo Flutter Chat Application which allows the user to create an account, log 
 
 - Allows the user to use native device camera/gallery for picking profile photos
 
-- Firebase Cloud Messaging for notifying the user via push notifications
+- Firebase Cloud Messaging is used for notifying the user via push notifications
 
 
